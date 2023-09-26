@@ -1,5 +1,7 @@
+
 hj
 jvjg
+hjh
 import random
 from itertools import count
 import pandas as pd
@@ -11,7 +13,7 @@ plt.style.use('fivethirtyeight')
 x_vals = []
 y_vals = []
 
-index = count()
+index = count() km
 
 
 def animate(i):
